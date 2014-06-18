@@ -1,5 +1,5 @@
-Problems
-========
+Description
+===========
 
 In this directory I have a bunch of solutions to various project CodeChef problems mostly in C++ and D. 
 
